@@ -1,0 +1,4 @@
+﻿  Course_Work.cpp
+D:\Course 2\Semester_2\САОД\Course_Work\Course_Work\Bank.h(444,24): warning C4018: '<': signed/unsigned mismatch
+D:\Course 2\Semester_2\САОД\Course_Work\Course_Work\Course_Work.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Course_Work.vcxproj -> D:\Course 2\Semester_2\САОД\Course_Work\Debug\Course_Work.exe
